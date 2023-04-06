@@ -1,0 +1,3 @@
+nicegui
+openai==0.27.0
+
