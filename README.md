@@ -2,7 +2,7 @@
 # 一個使用NiceGUI框架和GPT3.5 turbo模型官方API，快速建置Web app於平台Render。
 
 <div align="center">
-  <img src="demo/nicegui1.png" width="400"/>
+  <img src="demo/nicegui1.png" width="600"/>
 </div>
 
 <div align="center">
